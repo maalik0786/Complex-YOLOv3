@@ -1,0 +1,4 @@
+# User-specific files
+*.pth
+*/__pycache__/*.pyc
+*.pyc
