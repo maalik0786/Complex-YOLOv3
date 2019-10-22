@@ -14,9 +14,9 @@ Complete but Unofficial PyTorch Implementation of [Complex-YOLO: Real-time 3D Ob
     $ python download_weights.py
     
 #### Test [without downloading dataset] 
-
-    1. $ python test_detection.py --split=smaples --folder=sampledata  
-    2. $ python test_both_side_detection.py --split=smaples --folder=sampledata
+    1. $ cd ..
+    2. $ python test_detection.py --split=smaples --folder=sampledata  
+    3. $ python test_both_side_detection.py --split=smaples --folder=sampledata
 
 #### Demo Video [[Click to Play](https://www.youtube.com/watch?v=JzywsbuXFOg)]
 [![complex-yolov3_gif][complex-yolov3_gif]](https://youtu.be/JzywsbuXFOg)
